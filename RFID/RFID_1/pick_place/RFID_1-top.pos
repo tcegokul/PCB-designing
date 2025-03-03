@@ -1,0 +1,26 @@
+### Footprint positions - created on 2025-01-02T15:40:05+0530 ###
+### Printed by KiCad version 8.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                             PosX       PosY       Rot  Side
+C1        10u             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     164.3375  -110.3750    0.0000  top
+C2        10u             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     146.2825  -109.8550    0.0000  top
+C3        0.22            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     167.2750  -122.2875  -90.0000  top
+C4        0.22u           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     146.7500  -122.4375  -90.0000  top
+D1        Green_LED       LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   163.6348  -105.0200   90.0000  top
+D4        RED_LED         LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   166.6748  -105.0200   90.0000  top
+J1        Conn_01x04_Pin  PinHeader_1x04_P2.54mm_Vertical                 148.9556  -105.1968   90.0000  top
+J2        Conn_01x08_Pin  PinSocket_1x08_P2.54mm_Vertical                 173.9392   -79.4004    0.0000  top
+J3        Conn_01x04_Pin  CONN4_500000G_AMP                               172.4210  -112.5149  -90.0000  top
+R1        12K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     138.5062   -79.9498   90.0000  top
+R2        470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     130.4798   -79.8736  -90.0000  top
+R3        12K             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     131.2418   -95.0374   90.0000  top
+R4        470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     137.7188   -95.0120  -90.0000  top
+R5        470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     163.4396  -100.3464  -90.0000  top
+R8        470             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     166.5384  -100.3972  -90.0000  top
+SW1       SW_Push         SW_Push_1P1T_NO_6x6mm_H9.5mm                    134.4296   -86.4722    0.0000  top
+SW2       SW_Push         SW_Push_1P1T_NO_6x6mm_H9.5mm                    134.4676  -102.5652    0.0000  top
+U1        ESP32-WROOM-32  ESP32-WROOM-32                                  153.5052   -86.7614    0.0000  top
+U2        MIC2940A-3.3WU  TO263-3LD_MCH                                   134.7958  -118.8500   90.0000  top
+U3        MIC2940A-5.0WU  TO263-3LD_MCH                                   155.3000  -118.6000   90.0000  top
+## End

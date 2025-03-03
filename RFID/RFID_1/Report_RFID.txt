@@ -1,0 +1,43 @@
+PCB statistics report
+=====================
+- Date: 12/10/2024 7:40:59 AM
+- Project: RFID_1
+- Board name: RFID_1
+
+Board
+-----
+- Width: 1.9685 in
+- Height: 1.9685 in
+- Area: 3.8750 in²
+
+Pads
+----
+- Through hole: 28
+- SMD: 90
+- Connector: 0
+- NPTH: 0
+
+Vias
+----
+- Through vias: 100
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          3 |         0 |     3 |
+|SMD:          |         17 |         2 |    19 |
+|Unspecified:  |          0 |         0 |     0 |
+|Total:        |         20 |         2 |    22 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|   100 | Round | 0.0150 in | 0.0150 in |    PTH |     Via |        F.Cu |       B.Cu |
+|    16 | Round | 0.0394 in | 0.0394 in |    PTH |     Pad |        F.Cu |       B.Cu |
+|    12 | Round | 0.0079 in | 0.0079 in |    PTH |     Pad |        F.Cu |       B.Cu |
