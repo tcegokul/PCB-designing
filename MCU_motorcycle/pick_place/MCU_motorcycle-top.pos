@@ -1,0 +1,52 @@
+### Footprint positions - created on 2025-02-17T23:09:12+0530 ###
+### Printed by KiCad version 8.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                                              PosX       PosY       Rot  Side
+C4        10uf                C_0603_1608Metric_Pad1.08x0.95mm_HandSolder      181.5250  -127.9750  -90.0000  top
+C5        22uf                C_0603_1608Metric_Pad1.08x0.95mm_HandSolder      196.9500  -125.7125  -90.0000  top
+C6        10uF                C_0603_1608Metric_Pad1.08x0.95mm_HandSolder      187.9875  -133.5750   90.0000  top
+C7        22uF                C_0603_1608Metric_Pad1.08x0.95mm_HandSolder      173.9250  -136.3875  -90.0000  top
+CON1      MIKROBUS_HOST_CONN  MIKROBUS_HOST_CONN                               174.1275   -51.4725    0.0000  top
+D4        Power_LED           LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder    190.4250  -113.8000    0.0000  top
+D5        LED_ARGB            LED_AAA3528LSEKJ3ZGKQBKS                         168.7625  -112.2000    0.0000  top
+F1        Fuse                Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   190.6875  -138.1750  180.0000  top
+F2        Fuse                Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   174.0625  -127.0000    0.0000  top
+F3        Fuse                Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   199.7500  -120.9875  -90.0000  top
+J1        Conn_01x03_Pin      PinSocket_1x03_P2.54mm_Vertical                  147.9600   -76.1000   90.0000  top
+J2        Conn_01x03_Pin      PinSocket_1x03_P2.54mm_Horizontal                107.6000   -77.4750    0.0000  top
+J3        Conn_01x08_Pin      PinSocket_1x08_P2.54mm_Vertical                  168.7000   -69.6400  180.0000  top
+J4        Conn_01x02_Pin      PinSocket_1x02_P2.54mm_Vertical                  149.3600   -85.5000   90.0000  top
+J6        Conn_01x06_Pin      PinSocket_1x06_P2.54mm_Horizontal                 97.1500   -49.8750    0.0000  top
+J8        Conn_01x08_Pin      PinSocket_1x08_P2.54mm_Vertical                  118.3200   -72.8000   90.0000  top
+J9        Conn_01x04_Pin      PinSocket_1x04_P2.54mm_Vertical                  181.9250  -107.6200    0.0000  top
+J10       Conn_01x02_Pin      TE_282837-2                                      197.8000  -136.0000   90.0000  top
+J11       Conn_01x02_Pin      TE_282837-2                                      151.1100  -138.3500    0.0000  top
+J12       Conn_01x02_Pin      TE_282837-2                                      132.8100  -138.3500    0.0000  top
+J13       Conn_01x02_Pin      TE_282837-2                                      114.5100  -138.2500    0.0000  top
+J14       Conn_01x02_Pin      TE_282837-2                                       96.5500  -138.9000    0.0000  top
+J15       Conn_01x02_Pin      TE_282837-2                                       78.6100  -139.3500    0.0000  top
+J16       Conn_01x02_Pin      TE_282837-2                                       58.7000  -120.0600  -90.0000  top
+J17       Conn_01x02_Pin      TE_282837-2                                       58.7000   -99.9100  -90.0000  top
+J18       Conn_01x03_Pin      PinSocket_1x03_P2.54mm_Vertical                  130.7200   -78.2000   90.0000  top
+R1        470                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      162.4000  -112.3000   90.0000  top
+R3        12K                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      124.8000   -92.7000  -90.0000  top
+R4        470                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      124.9000   -98.1000  -90.0000  top
+R5        12K                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      124.9000  -104.8000  -90.0000  top
+R6        470                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      124.9000  -110.8000  -90.0000  top
+R8        200                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      143.8000   -85.3000  -90.0000  top
+R9        470                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      195.2000  -113.8000  180.0000  top
+SW1       SW_Push             SW_Push_1P1T_NO_6x6mm_H9.5mm                     115.7250   -95.0500    0.0000  top
+SW2       SW_Push             SW_Push_1P1T_NO_6x6mm_H9.5mm                     115.7250  -108.6500    0.0000  top
+U1        ESP32-WROOM-32      ESP32-WROOM-32                                   193.1700   -92.6000  -90.0000  top
+U4        AMS1117-5.0         SOT-223-3_TabPin2                                180.8000  -136.7500  180.0000  top
+U5        ULN2003A            DIP762W46P254L1969H533Q16                        145.1900  -101.2500  180.0000  top
+U6        ASSR-1218           SIP-4_DMO                                        122.4000  -121.5700  -90.0000  top
+U7        ASSR-1218           SIP-4_DMO                                        104.2500  -121.8700  -90.0000  top
+U8        ASSR-1218           SIP-4_DMO                                         86.5000  -122.3200  -90.0000  top
+U9        ASSR-1218           SIP-4_DMO                                         75.2800  -127.9800  180.0000  top
+U10       ASSR-1218           SIP-4_DMO                                        140.6000  -121.7700  -90.0000  top
+U11       ASSR-1218           SIP-4_DMO                                         75.5900  -107.9000  180.0000  top
+U12       ASSR-1218           SIP-4_DMO                                        158.7500  -121.6700  -90.0000  top
+U13       AMS1117-3.3         SOT-223-3_TabPin2                                189.6500  -124.8250    0.0000  top
+## End

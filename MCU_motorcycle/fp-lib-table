@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KAA-3528RGBS-11")(type "KiCad")(uri "${KIPRJMOD}/Symbols&footprintd/KAA-3528RGBS-11")(options "")(descr ""))
+  (lib (name "282837-2")(type "KiCad")(uri "${KIPRJMOD}/Symbols&footprintd/282837-2")(options "")(descr ""))
+  (lib (name "ULN2003")(type "KiCad")(uri "${KIPRJMOD}/Symbols&footprintd/ULN2003")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Symbols&footprintd/DMO063/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "mikroBUS")(type "KiCad")(uri "C:/Users/I73779/Downloads/kicad-mikroBUS-master/kicad-mikroBUS-master/modules/mikroBUS.pretty")(options "")(descr ""))
+)

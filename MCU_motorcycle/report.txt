@@ -1,0 +1,11 @@
+Plotted to 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-F_Cu.gbr'.
+Plotted to 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-B_Cu.gbr'.
+Plotted to 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-F_Paste.gbr'.
+Plotted to 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-B_Paste.gbr'.
+Plotted to 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-F_Silkscreen.gbr'.
+Plotted to 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-B_Silkscreen.gbr'.
+Plotted to 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-F_Mask.gbr'.
+Plotted to 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-B_Mask.gbr'.
+Plotted to 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\MIcrochip\PCB_designing\MCU_motorcycle\gerber\MCU_motorcycle-job.gbrjob'.
+Info: Done.

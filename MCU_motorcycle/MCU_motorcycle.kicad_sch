@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "f573dde7-07e2-4cc9-9213-b17792d0dffb")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 55.88 46.99)
+		(size 40.64 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1906e796-000c-4333-a2ac-80a1b14261a6")
+		(property "Sheetname" "MCU_ESP32"
+			(at 55.88 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU_ESP32.kicad_sch"
+			(at 55.88 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MCU_motorcycle"
+				(path "/f573dde7-07e2-4cc9-9213-b17792d0dffb"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

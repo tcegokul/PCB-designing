@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mikroBUS")(type "Legacy")(uri "C:/Users/I73779/Downloads/kicad-mikroBUS-master/kicad-mikroBUS-master/library/mikroBUS.lib")(options "")(descr ""))
+)
